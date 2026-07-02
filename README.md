@@ -1,6 +1,6 @@
 # CSV Data Cleaner
 
-A beginner Python project that cleans messy CSV files using pandas.
+A Python project that cleans messy CSV files using pandas.
 
 ## Features
 
